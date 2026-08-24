@@ -1,0 +1,8 @@
+set1={11,5,98,11,32,34,56,19,20,31}
+set2={11,98,19,4,3,20,5,8,65}
+set3={32,56,19}
+set4={1,2,3,4,6,8}
+
+print(set1.isdisjoint(set2))
+print(set1.isdisjoint(set3))
+print(set1.isdisjoint(set4))
